@@ -1,0 +1,4 @@
+rdkit
+pandas
+pyarrow
+numpy
